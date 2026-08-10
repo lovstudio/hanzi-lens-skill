@@ -30,7 +30,7 @@ Example:
   },
   "workspace": {
     "root": "$HOME/projects",
-    "output_dir": "$HOME/Documents/sgc-skill-output"
+    "output_dir": "$HOME/Documents/lov-skill-output"
   },
   "brand": {
     "name": "Your Brand",
@@ -57,7 +57,7 @@ Skill-specific overrides:
 | Variable | Meaning |
 |----------|---------|
 | `SKILL_HANZI_LENS_OUTPUT_DIR` | Hanzi Lens output root |
-| `SKILL_HANZI_LENS_INFOGRAPHIC_SKILL_DIR` | Installed `sgc-professional-infographic` directory |
+| `SKILL_HANZI_LENS_INFOGRAPHIC_SKILL_DIR` | Installed `lov-professional-infographic` directory |
 | `SKILL_SKILLS_INSTALL_DIR` | Shared Agent Skills installation directory |
 
 ## Implementation Notes
